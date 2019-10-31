@@ -1,1 +1,2 @@
-# sadapwa
+# sadap wa back
+• INGAT DOSA DI TANGGUNG SENDIRI
