@@ -1,2 +1,4 @@
-# sadap wa back
-• INGAT DOSA DI TANGGUNG SENDIRI
+# • Command
+• git clone https://github.com/K4ngR3c0d3/sadapwa.git
+• cd sadapwa
+• bash install.sh
